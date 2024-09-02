@@ -1,0 +1,81 @@
+*{
+    margin: 0px;
+    padding: 0;
+    font-family: sans-serif;
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.login{
+    height: 100vh;
+    background-color: white;
+    display: grid;
+    grid-template-columns: 32% 68%;
+    background-image: url(https://appclick.ng/portal/uploads/school_content/login_image/1690229717-162752723964bedbd546018!Stay-Ahead-in-the-Coding-World-with-These-Programming-Laptop-2.jpg);
+}
+form{
+    height: 100vh;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+ 
+} 
+
+
+.form h2{
+    color: #868484;
+    font-size: 20px;
+    margin-top: 0;
+    font-weight: 350;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    padding-right: 275px;
+    margin-top: 50px;
+    
+
+    
+}
+.form input{
+    height: 50px;
+    width: 400px;
+    font-size: 20px;
+    border: 1px solid rgba(0, 0, 0, 0.147);
+    box-shadow: 0px  2px 10px 5px #00000014;
+    border-radius: 5px;
+    text-align: c;
+    
+    
+    
+    
+
+    
+    
+}
+.form button{
+    height: 50px;
+    width: 410px;
+    border-radius: 7px;
+    font-size: 20px ;
+    background-color: #43b054;
+    color: white;
+    cursor: pointer;
+}
+.form a{
+    margin: 6px;
+    color: #444444;
+    font-size: 20px;
+    text-decoration: none;
+    display: flex;
+    align-items: baseline;
+    justify-content: baseline;
+    
+}
+
+.image{
+    width: 10vw;
+    height: 80px;
+
+}
